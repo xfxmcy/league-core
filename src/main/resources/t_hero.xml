@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<t_hero id="1" hname="提莫" nickname="队长" birthday="1990-2-2" price="12.3" />
+	<t_hero id="3" hname="瑞文" nickname="中单" birthday="1991-2-2" price="12.3" />
+</dataset>

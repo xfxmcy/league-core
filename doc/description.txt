@@ -1,0 +1,10 @@
+1.实现功能 ext view架构搭建(仅供参考) 左侧菜单查询,和事件触发
+2.CRUD 暂未实现... (no time) 
+...sorry...
+3.  controller 定义组件 建议使用 
+Ext.define('SMS.controller.Grid',{ 
+    extend: 'Ext.app.Controller', 
+    views: ['XM'],
+    stores :['Menu'],
+    models :['Jing']... 语法
+4. 自己动手 丰衣足食...    

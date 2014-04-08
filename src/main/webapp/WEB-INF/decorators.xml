@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/templates">
+
+	<excludes>
+		<pattern>*.dialog*</pattern>
+		<pattern>*Dialog*</pattern>
+	</excludes>
+
+	<!-- manger -->
+	<decorator name="managerMent" page="manager.jsp">
+		<pattern>*/manager/*</pattern>
+	</decorator>
+</decorators>
