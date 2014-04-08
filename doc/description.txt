@@ -8,3 +8,4 @@ Ext.define('SMS.controller.Grid',{
     stores :['Menu'],
     models :['Jing']... 语法
 4. 自己动手 丰衣足食...    
+5. 如有更新 ...		 git@github.com:xfxmcy/league-core.git
